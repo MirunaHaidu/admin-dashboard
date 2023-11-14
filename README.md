@@ -34,9 +34,8 @@ Explore llama projects, read announcements, and stay connected with the llama co
 
 ## Live Demo
 
-Check out the live demo [here](#). (Replace # with your actual live demo link)
+Check out the live demo [here](https://mirunahaidu.github.io/admin-dashboard/).
 
-![Project Demo](https://mirunahaidu.github.io/admin-dashboard/)
 
 ## Contributing
 
